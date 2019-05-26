@@ -1,0 +1,16 @@
+{
+  "name": "BRAEZIA",
+  "version": "1.0.0",
+  "description": "cbot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "d.aide"
+  },
+  "author": "BRAEZIA",
+  "license": "ISC"
+}
